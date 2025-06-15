@@ -6,7 +6,7 @@ An intelligent Streamlit-based waste classification web app that allows users to
 - Upload an image and view it in the app
 - Enter a prompt related to the uploaded image
 - Detects objects using **two YOLOv8 models**:
-  - 🔬 A **custom-trained YOLOv8 model** trained with a vast dataset specifically for garbage and waste classification
+  - 🔬 A **custom-trained YOLOv8 model** trained with a vast dataset with 20k+ images specifically for garbage and waste classification
   - 🌍 The general-purpose **YOLOv8n model** for additional object detection
 - Combines detection results with user input to generate smart insights
 - Displays detection results side-by-side for easy comparison
